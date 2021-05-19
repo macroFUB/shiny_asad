@@ -4,6 +4,8 @@ Small shiny app for teaching.
 
 It depicts the effects of changes in different parameters on the equlibrium of the AS-AD model.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makhro/shiny_asad/HEAD?urlpath=shiny?filepath=asad)
+
 Copyright (C) 2020 Erik Dasenbrock, Universität Rostock, Lehrstuhl für Angewandte Makroökonomie, Wirtschafts- und Sozialwissenschaftliche Fakultät der Universität Rostock.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
