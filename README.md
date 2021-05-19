@@ -2,7 +2,7 @@
  
 Small shiny app for teaching.
 
-It depicts the effects of changes in different parameters on the equlibrium of the AS-AD model.
+It depicts the effects of changes in different parameters on the equilibrium of the AS-AD model.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makhro/shiny_asad/HEAD?urlpath=shiny/asad/)
 
